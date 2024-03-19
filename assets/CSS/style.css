@@ -24,6 +24,12 @@ h2 {font-family: 'Young Serif';
     padding-top: 25px;
 }
 hr {border-color: hsla(0, 0%, 100%, 0.363);}
+table {padding-left: 30px;
+padding-top: 10px;
+padding-bottom: 10px;}
+
+.pnut {padding-bottom: 10px;
+padding-top: 5px;}
 
 h3 {color: hsl(330, 93%, 18%);
 font-size: 16px;
@@ -61,7 +67,7 @@ border-radius: 15px;}
     width: 700px;
     margin-top: 100px;
     margin-bottom: 100px;
-    padding-left:  350px;
+    padding-left:  320px;
    
 }
 .card {width: 600px;
